@@ -1,0 +1,9 @@
+{
+    "name": "soundmanager",
+    "description": "SoundManager2 packaged for meteor",
+    "homepage": "https://github.com/wenape/meteor-soundmanager",
+    "author": "Wenape",
+    "version": "0.1.0",
+    "git": "https://github.com/wenape/meteor-soundmanager.git",
+    "packages": {}
+}
