@@ -7,7 +7,7 @@ Meteor SoundManager2
 ### Installation
 
 ```sh
-$ meteor add wenape:meteor-soundmanager
+$ meteor add wenape:soundmanager
 ```
 
 ### Usage
